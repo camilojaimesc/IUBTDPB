@@ -1,0 +1,21 @@
+body {background-color: rgb(241, 228, 209);}
+h1 {color: rgb(52, 192, 52)};
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+input {
+    width: 90px;
+    padding: 9px;
+    background-color: rgb(186, 226, 226);
+}
+ 
+
+
+
+
+
+
